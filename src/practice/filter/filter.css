@@ -1,0 +1,19 @@
+.fitler{
+    margin-left: 6rem;
+    width: 190px;
+    display: flex;
+    justify-content:space-between;
+}
+
+button{
+    padding: 3px 10px;
+    border-radius: 8px;
+    border-color : rgba(0, 0, 0, 0.307);
+    background-color: white;
+    color : rgb(43, 49, 226);
+}
+
+.active{
+    background-color: rgba(49, 110, 176, 0.753);
+    color: white
+}

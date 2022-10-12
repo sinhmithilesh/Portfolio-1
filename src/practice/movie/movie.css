@@ -1,0 +1,30 @@
+.movie-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: 15px 10px;
+    height: 227px;
+    width: 185px;
+    overflow: hidden;
+
+}
+
+h4{
+    font-size: 14px;
+   
+}
+
+
+img{
+    height: 200px;
+    width: 180px;
+    object-fit: cover;
+    border-radius: 5px;
+    transition: all 0.2s;
+    cursor: pointer;
+
+}
+
+img:hover{
+    transform: scale(1.04);
+}

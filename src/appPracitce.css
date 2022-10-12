@@ -1,0 +1,13 @@
+.appPractice{
+    height: 90vh;
+    scroll-behavior:smooth ;
+}
+
+
+.movie-wrapper{
+  display: flex; 
+  justify-content: center;
+  flex-wrap: wrap;
+
+ 
+}
